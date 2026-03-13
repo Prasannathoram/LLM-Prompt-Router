@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+
+  ai-router:
+    build: .
+    container_name: ai_prompt_router
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./route_log.jsonl:/app/route_log.jsonl
+
+    stdin_open: true
+    tty: true
