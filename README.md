@@ -84,6 +84,11 @@ ai-prompt-router
 ```
 
 ---
+## 🎥 Project Demo Video
+
+Watch the full project demonstration here:
+
+https://youtu.be/HQX0nbvAbs4?si=MrUG9mV8_sWtdZx5
 
 # Expert Personas
 
